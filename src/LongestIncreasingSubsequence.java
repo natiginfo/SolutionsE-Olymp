@@ -5,6 +5,7 @@ import java.util.Stack;
  * This is my solution for finding longest increasing subsequence inside array
  * I implemented Stack
  * This is quick code, so, before using it check if it needs your needs
+ * This is question of job interview not E-Olymp
  */
 
 public class LongestIncreasingSubsequence {
